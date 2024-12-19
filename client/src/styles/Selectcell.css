@@ -1,0 +1,12 @@
+#selcell{
+    border: 1px solid black;
+}
+.startpoint{
+    background-color: green;
+}
+.endpoint{
+    background-color: red;
+}
+.normal{
+    background-color: beige;
+}

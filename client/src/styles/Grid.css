@@ -1,0 +1,5 @@
+.gridsubcont{
+    display: grid;
+    grid-column: var(1);
+    grid-row: var(1);
+}
